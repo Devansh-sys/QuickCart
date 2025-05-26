@@ -34,17 +34,14 @@ QuickCart/
 │   └── src/...
 🔧 How to Run
 🔹 Backend (Spring Boot)
-
-
-<pre> ```bash cd SpringEcom ``` </pre>
+<pre> cd SpringEcom </pre>
 ./mvnw spring-boot:run
 Make sure PostgreSQL is running and your database credentials are set correctly in application.properties.
 
 🔹 Frontend (React)
-
-<pre> ```bash cd ecom-frontend-5-main
+<pre>cd ecom-frontend-5-main
 npm install
-npm run dev ``` </pre>
+npm run dev  </pre>
 Ensure the backend server is running before launching the frontend.
 
 ## 🌐 API Overview
